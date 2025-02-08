@@ -1,17 +1,17 @@
-url: https://y7kim.github.io
+url: BSU-IT-Club.github.io
 baseurl: /agency-jekyll-theme/
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: BSU IT Club
+email: itclub@boisestate.edu
+description: "BSU's IT Club"
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Mason Coler-Dark 
   pic: 1
-  position: Lead Designer
+  position: Club President
   social:
     - title: twitter
       url: #
@@ -20,9 +20,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Gabe
   pic: 2
-  position: Lead Marketer
+  position: Education Officer
   social:
     - title: twitter
       url: #
@@ -31,9 +31,9 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Tyla Martin
   pic: 3
-  position: Lead Developer
+  position: Marketing Officer
   social:
     - title: twitter
       url: #
@@ -42,6 +42,38 @@ people:
     - title: google-plus
       url: #
 
+- name: Calvin
+  pic: 3
+  position: Cybersecurity Initiatives Officer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+  
+- name: Gabriel
+  pic: 3
+  position: IT Ops Team Officer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+  
+- name: Evan Bullwinkle
+  pic: 3
+  position: Technology Officer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
