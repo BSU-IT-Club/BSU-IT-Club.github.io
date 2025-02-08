@@ -19,56 +19,39 @@ people:
   pic: Gabe
   position: Education Officer
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/gabrieltinsley/
 
 - name: Tyla Martin
   pic: Tyla
   position: Marketing Officer
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/tylamartin
+    - title: instagram
+      url: https://www.instagram.com/tylaafe/
 
 - name: Calvin Worst
   pic: Calvin
   position: Cybersecurity Initiatives Officer
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/calvinworst/
   
 - name: Gabriel Williams
   pic: 3
   position: IT Ops Team Officer
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
   
 - name: Evan Bullwinkle
   pic: 3
   position: Technology Officer
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/evan-b-7321b6114/
+    - title: github
+      url: https://github.com/Mogi83
+
   
 - name: Mayahuel Godinez-Gonzalez
   pic: 3
