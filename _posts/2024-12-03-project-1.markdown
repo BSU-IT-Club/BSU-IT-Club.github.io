@@ -1,0 +1,14 @@
+---
+title: Red Hat Academy 
+subtitle: Linux Fundamentals (RH104)
+layout: default
+modal-id: 1
+date: 2024-12-03
+img: redhat.png
+thumbnail: redhat.png
+alt: image-alt
+project-date: December 2024 - Present
+category: Certifications
+description: At the start of december the club has persued the RH104 Linux Fundamentals course which will be open until March.
+
+---

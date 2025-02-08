@@ -10,18 +10,13 @@ description: "BSU's IT Club"
 # Team names, titles and social links
 people:
 - name: Mason Coler-Dark 
-  pic: 1
+  pic: Mason
   position: Club President
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Gabe
-  pic: 2
+    - title: linkedin
+      url: https://www.linkedin.com/in/mason-coler-dark-4577b9257/
+- name: Gabe Tinsley
+  pic: Gabe
   position: Education Officer
   social:
     - title: twitter
@@ -32,7 +27,7 @@ people:
       url: #
 
 - name: Tyla Martin
-  pic: 3
+  pic: Tyla
   position: Marketing Officer
   social:
     - title: twitter
@@ -42,8 +37,8 @@ people:
     - title: google-plus
       url: #
 
-- name: Calvin
-  pic: 3
+- name: Calvin Worst
+  pic: Calvin
   position: Cybersecurity Initiatives Officer
   social:
     - title: twitter
@@ -53,7 +48,7 @@ people:
     - title: google-plus
       url: #
   
-- name: Gabriel
+- name: Gabriel Williams
   pic: 3
   position: IT Ops Team Officer
   social:
@@ -65,6 +60,17 @@ people:
       url: #
   
 - name: Evan Bullwinkle
+  pic: 3
+  position: Technology Officer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+  
+- name: Mayahuel Godinez-Gonzalez
   pic: 3
   position: Technology Officer
   social:
