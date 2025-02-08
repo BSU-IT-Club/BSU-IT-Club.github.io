@@ -1,30 +1,6 @@
-Agency Jekyll theme
+BSU IT Club Website
+BSU-IT-Club.github.io
 ====================
-
-Agency theme based on [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)
-
-# How to use
-
-###Portfolio 
-
-Portfolio projects are in '/_posts'
-
-Images are in '/img/portfolio'
-
-###About
-
-Images are in '/img/about/'
-
-###Team
-
-Team members and info are in '_config.yml'
-
-Images are in '/img/team/'
-
-
-# Demo
-
-View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
-
-=========
-For more details, read [documentation](http://jekyllrb.com/)
+Hosted with [Github Pages](https://pages.github.com)
+Built on [Jekyll](https://jekyllrb.com)
+Based on a hevily modified Agency theme which is based on [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)
