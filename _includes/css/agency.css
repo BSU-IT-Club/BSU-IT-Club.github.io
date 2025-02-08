@@ -130,6 +130,44 @@ fieldset[disabled] .btn-primary.active {
     background-color: #{{ site.data.template.color.primary }};
 }
 
+.btn-circle {
+    width: 100%; /* Adjust the button size to match the timeline images */
+    height: 100%;
+    background-color: #{{ site.data.template.color.primary }}; /* Button color */
+    color: #fff; /* Text (icon) color */
+    border-radius: 50%; /* Circular button */
+    display: flex;
+    font-family: {{ site.data.template.font.primary }};
+    text-transform: uppercase;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 18px; /* Icon size */
+    font-weight: 700; /* Font weight */
+    border: 3px solid #{{ site.data.template.color.primary }}; /* Border color */
+    transition: background-color 0.3s ease, border-color 0.3s ease; /* Smooth transition */
+}
+
+.btn-circle:hover {
+    background-color: #{{ site.data.template.color.secondary }}; /* Hover background color */
+    border-color: #{{ site.data.template.color.secondary }}; /* Hover border color */
+    color: #fff;
+}
+
+.btn-circle:focus,
+.btn-circle:active,
+.btn-circle.active {
+    background-color: #{{ site.data.template.color.secondary }}; /* Focused button color */
+    border-color: #{{ site.data.template.color.secondary }}; /* Focused border color */
+}
+
+/* Optional: Style for the icon inside the button */
+.btn-circle i {
+    font-size: 40px; /* Icon size */
+}
+
+
+
 .btn-xl:hover,
 .btn-xl:focus,
 .btn-xl:active,
