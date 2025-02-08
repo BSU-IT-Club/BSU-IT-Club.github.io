@@ -1,5 +1,5 @@
-BSU IT Club Website
-BSU-IT-Club.github.io
+[BSU IT Club Website](BSU-IT-Club.github.io)
+
 ====================
 Hosted with [Github Pages](https://pages.github.com)
 Built on [Jekyll](https://jekyllrb.com)
