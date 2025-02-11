@@ -8,6 +8,10 @@ body {
     overflow-x: hidden;
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #{{ site.data.template.color.secondary-dark }};
+    -webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
+    width: 100%;
+    margin: 0;
+    padding: 0;
 }
 
 .text-muted {
@@ -129,43 +133,6 @@ fieldset[disabled] .btn-primary.active {
     color: #fff;
     background-color: #{{ site.data.template.color.primary }};
 }
-
-.btn-circle {
-    width: 100%; /* Adjust the button size to match the timeline images */
-    height: 100%;
-    background-color: #{{ site.data.template.color.primary }}; /* Button color */
-    color: #fff; /* Text (icon) color */
-    border-radius: 50%; /* Circular button */
-    display: flex;
-    font-family: {{ site.data.template.font.primary }};
-    text-transform: uppercase;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    font-size: 18px; /* Icon size */
-    font-weight: 700; /* Font weight */
-    border: 3px solid #{{ site.data.template.color.primary }}; /* Border color */
-    transition: background-color 0.3s ease, border-color 0.3s ease; /* Smooth transition */
-}
-
-.btn-circle:hover {
-    background-color: #{{ site.data.template.color.secondary }}; /* Hover background color */
-    border-color: #{{ site.data.template.color.secondary }}; /* Hover border color */
-    color: #fff;
-}
-
-.btn-circle:focus,
-.btn-circle:active,
-.btn-circle.active {
-    background-color: #{{ site.data.template.color.secondary }}; /* Focused button color */
-    border-color: #{{ site.data.template.color.secondary }}; /* Focused border color */
-}
-
-/* Optional: Style for the icon inside the button */
-.btn-circle i {
-    font-size: 40px; /* Icon size */
-}
-
 
 
 .btn-xl:hover,
@@ -536,7 +503,6 @@ section h3.section-subheading {
     border-radius: 100%;
     text-align: center;
     color: #fff;
-    background-color: #{{ site.data.template.color.primary }};
 }
 
 .timeline>li .timeline-image h4 {
@@ -903,3 +869,67 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
 }
+
+
+@media (max-width: 767px) {
+    body, .container, .navbar, .main-content, section {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        width: 100%;
+        max-width: 100%;
+        margin: 0 auto;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    .container {
+        width: 100%;
+        max-width: 100%;
+        padding: 0 15px;
+    }
+
+    header, .intro-text {
+        padding-left: 15px;
+        padding-right: 15px;
+        text-align: center;
+    }
+
+    .navbar-default .navbar-nav {
+        text-align: center;
+    }
+
+    .navbar-default .navbar-nav>li {
+        display: inline-block;
+    }
+
+    #portfolio .portfolio-item {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+}
+
+@media (max-width: 1024px) {
+    .container {
+        width: 95%;
+    }
+}
+
+img, video, iframe {
+    max-width: 100%;
+    height: auto;
+}
+
+@media (max-width: 768px) {
+    img, video, iframe {
+        max-width: 100%;
+        height: auto;
+    }
+}
+
+.intro-text {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+}
+
