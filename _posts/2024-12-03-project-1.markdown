@@ -4,8 +4,8 @@ subtitle: Linux Fundamentals (RH104)
 layout: default
 modal-id: 1
 date: 2024-12-03
-img: redhat.png
-thumbnail: redhat.png
+img: redhat.jpg
+thumbnail: redhat.jpg
 alt: image-alt
 project-date: December 2024 - Present
 category: Certifications

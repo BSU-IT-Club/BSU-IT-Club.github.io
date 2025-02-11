@@ -57,6 +57,8 @@ people:
   pic: placeholder
   position: Relations Officer
   social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/mayahuel-godinez-gonzalez-07b7a6294/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:

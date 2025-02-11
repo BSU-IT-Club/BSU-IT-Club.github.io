@@ -1,15 +1,14 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Data Hygine Project
+subtitle: Building a VPN
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+date: 2025-01-03
+img: vpn.jpg
+thumbnail: vpn.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: Coming soon!
+category: In Person Lab
+description: Coming soon there will be a project and lab exploring how VPNs Work and how to setup your own from our Cybersecurity Initiatives Officer Calvin Worst. More to follow!
 
 ---

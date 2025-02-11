@@ -1,0 +1,14 @@
+---
+title: CompTIA Certifications
+subtitle: Study Group
+layout: default
+modal-id: 2
+date: 2025-01-01
+img: study.jpg
+thumbnail: study.jpg
+alt: image-alt
+project-date: January 2025
+category: certifications
+description: The semester started off with a study group for certifications like Security + and Network + for those students interested in taking the certification exams at the end of the semester. You can ask questions and get support for your learning track in our discord.
+
+---
